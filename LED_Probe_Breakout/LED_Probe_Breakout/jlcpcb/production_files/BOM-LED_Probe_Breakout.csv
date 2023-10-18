@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+Conn_01x40,J1,FPC-SMD_P0.50-40P_FGS-XJ-H2.0,C262674
+Conn_Coaxial,"J10,J11,J12,J13,J14,J15,J16,J17,J2,J3,J4,J5,J6,J7,J8,J9",ANT-TH_DOSIN-801-0057,C709675
+MountingHole_Pad,H4,MountingHole_3mm_Pad,
+Conn_01x04_Socket,J21,PinSocket_1x04_P2.54mm_Vertical,
+Conn_01x04_Socket,J19,PinSocket_1x04_P2.54mm_Vertical,
+Conn_01x04_Socket,J20,PinSocket_1x04_P2.54mm_Vertical,
+MountingHole_Pad,H1,MountingHole_3mm_Pad,
+Conn_01x04_Socket,J18,PinSocket_1x04_P2.54mm_Vertical,
+MountingHole_Pad,H3,MountingHole_3mm_Pad,
+MountingHole_Pad,H2,MountingHole_3mm_Pad,

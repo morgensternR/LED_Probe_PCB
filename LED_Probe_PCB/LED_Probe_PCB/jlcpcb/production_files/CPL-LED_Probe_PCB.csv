@@ -1,0 +1,6 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+E1,Conn_01x08,wirebond_8x_0.6x2cm,5.68225,-0.0,90.0,top
+J5,Conn_01x40,FPC-SMD_P0.50-40P_FGS-XJ-H2.0,-0.01,21.5785,0.0,top
+N1,Conn_01x08,wirebond_8x_0.6x2cm,0.0,5.68225,180.0,top
+S1,Conn_01x08,wirebond_8x_0.6x2cm,0.0,-5.68225,0.0,top
+W1,Conn_01x08,wirebond_8x_0.6x2cm,-5.68225,-0.0,-90.0,top

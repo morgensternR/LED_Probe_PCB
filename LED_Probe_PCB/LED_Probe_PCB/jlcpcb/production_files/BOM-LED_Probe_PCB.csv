@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,LCSC
+Conn_01x40,J5,FPC-SMD_P0.50-40P_FGS-XJ-H2.0,C262674
+MountingHole_Pad,H2,MountingHole_2.2mm_M2_DIN965_Pad,
+Conn_01x08,S1,wirebond_8x_0.6x2cm,
+Conn_01x08,E1,wirebond_8x_0.6x2cm,
+Conn_01x08,W1,wirebond_8x_0.6x2cm,
+Conn_01x08,N1,wirebond_8x_0.6x2cm,
+MountingHole_Pad,H4,MountingHole_2.2mm_M2_DIN965_Pad,
+MountingHole_Pad,H3,MountingHole_2.2mm_M2_DIN965_Pad,
+MountingHole_Pad,H1,MountingHole_2.2mm_M2_DIN965_Pad,
